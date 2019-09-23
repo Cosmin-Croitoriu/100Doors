@@ -1,0 +1,14 @@
+{
+  "name": "100_doors-js",
+  "version": "1.0.0",
+  "description": "kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cosmin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
