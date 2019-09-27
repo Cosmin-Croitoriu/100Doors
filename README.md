@@ -14,4 +14,4 @@ Examples
 The first six doors could look something like this : @@##@@##
 Bonus
 Add a third state of holding (use H). By adding this state, you must toggle between open, holding and closed when
-visiting the doo
+visiting the door
